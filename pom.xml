@@ -62,7 +62,7 @@
                 <configuration>
                     <url>http://localhost:9090/manager/text</url>
                     <server>TomcatServer</server>
-                    <path>/Project-1</path>
+                    <path>/Project-1/Project-1</path>
                     <username>admin</username>
                     <password>admin</password>
                 </configuration>
