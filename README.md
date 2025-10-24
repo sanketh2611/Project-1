@@ -22,6 +22,6 @@ This project demonstrates a complete Build & Deployment workflow using CLI with 
 ---
 
 # Core Command  
-Single Maven command for build, quality check, artifact upload, and deployment:  
+Single Maven command for build, quality check, artifact upload and deployment:  
 
 **mvn clean install sonar:sonar deploy tomcat7:deploy**
